@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * AutoLoader Class
+ *
+ * @author Ramazan Çetinkaya
+ * @date 2023-02-01
+ */
 namespace MyApp\Autoloader;
 
 /**
