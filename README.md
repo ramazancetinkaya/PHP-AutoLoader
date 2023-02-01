@@ -1,4 +1,4 @@
-# PHP Auto Loader
+# Auto loader class
 
 Note: In the example above, the **register** method is used to add this autoloader to the SPL autoloader stack, so that it can be used to load classes automatically. The **addNamespace** method is used to map a namespace prefix to a directory in the file system, and the **loadClass** method is used to load the class file for a given fully qualified class name. The **loadMappedFile** and **requireFile** methods are used to load the mapped file for a namespace prefix and relative class, and to require the file from the file system, respectively.
 
